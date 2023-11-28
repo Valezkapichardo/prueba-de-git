@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background: #3245ED;
+    color: #FFFFFF;
+}
+h1{
+    font-size: 20px;
+    text-align: left;
+    line-height: 100px;
+    color: #921616;
+    margin: 0.5rem 0.5rem;
+}
